@@ -1,4 +1,4 @@
-import { FolderTree, CheckCircle2, Wrench, Github, Rocket, LayoutGrid } from "lucide-react";
+import { FolderTree, Rocket, LayoutGrid } from "lucide-react";
 
 const items = [
   {
